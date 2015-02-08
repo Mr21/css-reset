@@ -1,3 +1,12 @@
+a {
+	color: #88f;
+	font-weight: bold;
+	text-decoration: none;
+	}
+	a:hover {
+		text-decoration: underline;
+		}
+
 .css-btn-ok,
 .css-btn-ko,
 .css-btn-disable,
