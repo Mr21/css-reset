@@ -23,6 +23,12 @@ a {
 	text-align: center;
 	background: red;
 	}
+	.css-btn-ok:hover,
+	.css-btn-ko:hover,
+	.css-btn-disable:hover,
+	.css-btngrp > *:hover{
+		text-decoration: none;
+		}
 
 	.css-btn-ok,
 	.css-btn-ko {
